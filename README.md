@@ -1,4 +1,4 @@
-# polkadot-interaction-script    
+# polkadot-interaction-script     
  This script leverages the Polkadot API to perform basic actions, such as querying blockchain information and submitting transactions.
 from substrateinterface import SubstrateInterface, Keypair
 from datetime import datetime
