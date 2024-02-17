@@ -42,3 +42,5 @@ polkadot_script.query_block_info(12345)
 polkadot_script.submit_transaction("recipient_address_here", 10)
 
 This script provides a simple interface for interacting with the Polkadot blockchain. Users can query block information and submit transactions. Developers can build upon this script to create more complex applications and explore the diverse features of the Polkadot network.
+
+script    
